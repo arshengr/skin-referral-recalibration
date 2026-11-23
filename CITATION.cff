@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Label-free recalibration of skin cancer referral thresholds under site shift: a multi-cohort external validation"
+authors:
+  - family-names: Saeed
+    given-names: Arshad
+    affiliation: "Bay Atlantic University"
+    email: asaeed@stu.bau.edu
+  - family-names: Afzal
+    given-names: Saira
+    affiliation: "The Islamia University of Bahawalpur"
+  - family-names: Afzal
+    given-names: Tahira
+    affiliation: "The Islamia University of Bahawalpur"
+  - family-names: Hussain
+    given-names: Mubashir
+    affiliation: "Foundation University Islamabad"
+year: 2026
+license: MIT
